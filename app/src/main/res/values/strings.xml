@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="journalOpenScreenMessageText">You know you can tell me anything, right?</string>
+    <string name="AppName">MyJournal</string>
+    <string name="start_writing">Start writing</string>
+    <string name="emailHintText">Email</string>
+    <string name="passwordHintText">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="or">or</string>
+    <string name="username">Username</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="journalimage">JournalImage</string>
+    <string name="book">book</string>
+    <string name="quill">quill</string>
+    <string name="startWritingActivityText">Memories. Experiences. Desires. Fears.</string>
+    <string name="title">Title:</string>
+    <string name="postImage">postImage</string>
+    <string name="your_thoughts">Your thoughts…</string>
+    <string name="save">Save</string>
+    <string name="add_thought">Add thought</string>
+    <string name="sign_out">Sign out</string>
+    <string name="deactivate_profile">Deactivate profile</string>
+    <string name="AppBy">Application by:\nAmar Omerović</string>
+    <string name="emptyList">Write a thought by clicking the \"+\" icon above.</string>
+    <string name="deletePost">deletePost</string>
+    <string name="proptTextDate">Today</string>
+</resources>

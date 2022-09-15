@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3075" />
+        <entry key="app/src/main/res/drawable/background_image.xml" value="0.335" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.335" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.336" />
+        <entry key="app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.336" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.377" />
+        <entry key="app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.336" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.336" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.377" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3075" />
+        <entry key="app/src/main/res/drawable/nav_icon_color_selector.xml" value="0.329" />
+        <entry key="app/src/main/res/font/alatsi.xml" value="0.3640625" />
+        <entry key="app/src/main/res/font/marko_one.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/activity_create_account.xml" value="0.3115942028985507" />
+        <entry key="app/src/main/res/layout/activity_journal_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2859399684044234" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.31456953642384106" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_post_journal.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_start_wirting.xml" value="0.3765625" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/journal_post_item.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/menu/top_menu.xml" value="0.3328125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.161" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.336" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="androidx.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="1" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="9" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="1" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="2" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="5" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="7" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="9" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
